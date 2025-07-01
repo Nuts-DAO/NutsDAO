@@ -57,8 +57,6 @@ All contribution-related communications are conducted in Debox
 Are you willing to become a Nut and grow on the chain with us?
 
 ## 3. Incentive Plan
-The token pool in the plan is referred to as the Treasury
-Initially allocated to 65% of Nuts tokens,
 
 ### I. Basic Model
   
