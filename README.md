@@ -71,8 +71,7 @@ Initially allocated to 65% of Nuts tokens,
 ### 2. How to obtain computing power
 The basic rules are as follows:
 This content cannot be displayed outside the Lark document for the time being
-This content cannot be displayed outside the Lark document for the time being
-✅ All computing power will be bound to the member UID to form an open and transparent computing power ranking system (which can be deployed in Notion or Lark forms);
+
 
 ### 3. Revenue distribution mechanism
   
